@@ -1,7 +1,11 @@
 .card {
     border: none;
 }
-
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
 .chat {
     list-style: none;
     margin: 0;
